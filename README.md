@@ -68,7 +68,7 @@ Developed an interactive dashboard featuring:
 
 ## 📊 Dashboard Preview
 
-> Add your dashboard screenshot here.
+
 
 ---
 
