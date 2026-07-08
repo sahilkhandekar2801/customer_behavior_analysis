@@ -67,6 +67,7 @@ Developed an interactive dashboard featuring:
 ---
 
 ## 📊 Dashboard Preview
+<img width="1491" height="812" alt="DASHBOARD" src="https://github.com/user-attachments/assets/bdf3a8ef-a73b-49c7-a5f4-faf3d94b0175" />
 
 
 
